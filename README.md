@@ -77,7 +77,7 @@ npm install redux react-redux
     .
     .
     <div>
-        <button onClick={() => dispatch(increment())}>+<button>
+        <button onClick={() => dispatch(increment())}>+</button>
         Counter: {counter}
     </div>
 
